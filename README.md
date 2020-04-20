@@ -1,4 +1,4 @@
-# Bowling Service
+# Spring-boot + postgres + spock + docker setup
 
 ## BUILD the application 
 ./gradlew build   
